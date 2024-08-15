@@ -1,5 +1,4 @@
 import { authOptions } from "@/utils/authOptions";
-
 import { getServerSession } from "next-auth";
 import { ReactNode } from "react";
 import Navbar from "../componants/Shared/Navbar";
